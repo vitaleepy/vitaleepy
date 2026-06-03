@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a 14-year-old student who likes cats and codes really badly. I am mostly known for bad YouTube tutorials and sometimes low-level miscellaneous🔨.
 <!--
 **vitaleepy/vitaleepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
